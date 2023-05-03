@@ -11,7 +11,7 @@ click==7.1.2
 click-log==0.3.2
 dnspython==2.1.0
 email-validator==1.1.2
-Flask==1.1.2
+Flask==2.2.5
 Flask-Alembic==2.0.1
 git+https://github.com/justanr/flask-allows.git@f/Cut-down-on-warnings#egg=flask-allows
 Flask-BabelPlus==2.2.0
